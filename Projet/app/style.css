@@ -1,0 +1,17 @@
+.navbar{
+    background-color: azure;
+    text-align: center; 
+    height: 50px;
+}
+button{
+    padding-top: 20px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+body{
+    background-color: rgba(12, 74, 122, 0.801);
+    
+}

@@ -1,0 +1,15 @@
+<?php
+include('Connexion.php');
+if(isset($_POST['Acceuil'])){
+    include('index.php');
+}
+if(isset($_POST['Professeur'])){
+    include('Professeurs.php');
+}
+if(isset($_POST['Fileres'])){
+    include('Fileres.php');
+}
+if(isset($_POST['Etudiants'])){
+    include('Etudiants.php');
+}
+?>
